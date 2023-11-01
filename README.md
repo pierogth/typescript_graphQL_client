@@ -3,5 +3,5 @@ A little client application that reads data from graphQL server with a complete 
 
 # How to run
 
-Clone the project in a specific folder, then run the commands "npm install" and "npm run dev" to run the application.
+Clone the project in a specific folder, then run the commands "<b>npm install</b>" and "<b>npm run dev</b>" to run the application.
 NOTE: if you don't run the server app no data will displayed in the index page served by this client.
